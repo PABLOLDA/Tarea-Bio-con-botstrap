@@ -1,0 +1,23 @@
+*{background-color: rgb(159, 215, 235);
+    
+
+}
+
+html{font-size: 25px;}
+#imgPerfil{
+    border: solid 5px;
+    border-color: rgb(4, 37, 79);
+    height: 40%;
+    width: 40%;
+    }
+#iconos{
+    height: 4%;
+    width: 4%; 
+}
+
+
+body{font-family: 'Amatic SC', cursive;
+    text-align: center}
+
+
+
